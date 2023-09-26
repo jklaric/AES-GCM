@@ -1,0 +1,14 @@
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\bin\Debug\net8.0\EncryptionAssignment.exe
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\bin\Debug\net8.0\EncryptionAssignment.deps.json
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\bin\Debug\net8.0\EncryptionAssignment.runtimeconfig.json
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\bin\Debug\net8.0\EncryptionAssignment.dll
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\bin\Debug\net8.0\EncryptionAssignment.pdb
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\obj\Debug\net8.0\EncryptionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\obj\Debug\net8.0\EncryptionAssignment.AssemblyInfoInputs.cache
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\obj\Debug\net8.0\EncryptionAssignment.AssemblyInfo.cs
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\obj\Debug\net8.0\EncryptionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\obj\Debug\net8.0\EncryptionAssignment.dll
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\obj\Debug\net8.0\refint\EncryptionAssignment.dll
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\obj\Debug\net8.0\EncryptionAssignment.pdb
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\obj\Debug\net8.0\EncryptionAssignment.genruntimeconfig.cache
+C:\Users\klari\OneDrive\Radna površina\EncryprionAssignment\EncryptionAssignment\obj\Debug\net8.0\ref\EncryptionAssignment.dll
